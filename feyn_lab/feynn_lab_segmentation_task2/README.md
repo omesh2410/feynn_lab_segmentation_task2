@@ -1,1 +1,0 @@
-# feynn_lab_segmentation_task2
